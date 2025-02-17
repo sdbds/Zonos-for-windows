@@ -1,0 +1,8 @@
+torch==2.5.1
+ninja
+packaging
+https://github.com/sdbds/Zonos-for-windows/releases/download/windows-wheel/mamba_ssm-2.2.4-cp310-cp310-win_amd64.whl
+https://github.com/sdbds/Zonos-for-windows/releases/download/windows-wheel/causal_conv1d-1.5.0.post8-cp310-cp310-win_amd64.whl
+https://github.com/woct0rdho/triton-windows/releases/download/v3.2.0-windows.post9/triton-3.2.0-cp310-cp310-win_amd64.whl
+https://github.com/kingbri1/flash-attention/releases/download/v2.7.4.post1/flash_attn-2.7.4.post1+cu124torch2.5.1cxx11abiFALSE-cp310-cp310-win_amd64.whl
+-e .
